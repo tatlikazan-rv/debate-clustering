@@ -86,9 +86,6 @@ Functions used for topic clustering and visualisation
 
 ### main
 
-```Argument_Clustering_in_Debate_Format__Game_of_Thrones.pdf```
-Final project report
-
 ```pipeline.ipynb```
 The skeleton of our project - contains all steps of our pipeline: preprocessing, topic modelling and argument clustering.
 
